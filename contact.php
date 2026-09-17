@@ -14,14 +14,7 @@
         <?php require_once __DIR__ . "/inc/header.inc.php"; ?>
     </header>
     <main>
-        <h1 class="">Hello World</h1>
-        <ul>
-            <li><p><a href="apropos.php">À propos</a></p></li>
-            <li><p><a href="contact.php">Contact</a></p></li>
-            <li><p><a href="equipe.php">Equipe</a></p></li>
-            <li><p><a href="evenement.php">Évenement</a></p></li>
-            <li><p><a href="partenaire.php">Partenaire</a></p></li>
-        </ul>
+        
     </main>
     <script src="js/bootstrap.bundle.min.js"></script>
 </body>
